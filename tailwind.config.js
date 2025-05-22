@@ -8,8 +8,8 @@ export default {
   theme: {
     extend: {
       colors: {
-        'music-primary': '#1DB954',
-        'music-dark': '#191414',
+        'music-dark': '#1a1a1a',
+        'music-primary': '#646cff',
       },
     },
   },

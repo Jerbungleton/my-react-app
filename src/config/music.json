@@ -2,6 +2,7 @@
   {
     "id": 1,
     "title": "Sunset Dreams",
+    "artist": "Your Name",
     "audioSrc": "/audio/sunset-dreams.mp3",
     "coverArt": "/images/covers/sunset.jpg",
     "duration": "3:45",
@@ -11,6 +12,7 @@
   {
     "id": 2,
     "title": "Midnight Drive",
+    "artist": "Your Name",
     "audioSrc": "/audio/midnight-drive.mp3",
     "coverArt": "/images/covers/midnight.jpg",
     "duration": "4:22",
